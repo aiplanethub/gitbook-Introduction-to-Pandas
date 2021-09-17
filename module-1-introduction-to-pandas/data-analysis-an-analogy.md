@@ -1,8 +1,8 @@
 # Data Analysis - An Analogy
 
-### Data Analysis - An Analogy
+### Let's understand Data Analysis with an example
 
-You own an apple farm and you want to know the number of apples you grow but you are too busy with the farm so you hire someone to count them. You sell your apples too, and you get your apple counter to keep a record of the number of apples you have in the beginning and at the end of the day, every day. 
+Imagine you own an apple farm and you want to know the number of apples you grow but you are too busy with the farm so you hire someone to count them. You sell your apples too, and you get your apple counter to keep a record of the number of apples you have in the beginning and at the end of the day, every day. 
 
 Many days and months pass and you put sheet after sheet of the apple count together and you discover patterns and trends in the purchasing behaviour of your customers.
 
@@ -20,9 +20,9 @@ When you have enough data, you will find trends and patterns in your production.
 
 ### What is Data Analysis?
 
-As an apple farmer you collected the count of apple in the beginning of the day and at the end of the day in an organized fashion in the sheets. At the end you got some insightful information \(i.e. trends and patterns in the sell of apple\)  from that data. This is called Data Analysis.
+As an apple farmer, you collected the count of apple at the beginning of the day and at the end of the day in an organized fashion in the sheets. In the end, you got some insightful information \(i.e. trends and patterns in the sale of apples\)  from that data. This is called Data Analysis.
 
-So collecting all the words above, Data Analysis is a method of collecting and organizing the data and if required manipulating the data so that one can derive some useful information from the data.
+So collecting all the words above, **Data Analysis is a method of collecting and organizing the data and if required manipulating the data so that one can derive some useful information from the data.**
 
 ### Data Analysis and Pandas
 
