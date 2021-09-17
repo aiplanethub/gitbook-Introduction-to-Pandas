@@ -1,8 +1,6 @@
 # Data Analysis - An Analogy
 
-### Data Analysis: An Analogy
-
-You Are An Apple Farmer
+### Data Analysis - An Analogy
 
 You own an apple farm and you want to know the number of apples you grow but you are too busy with the farm so you hire someone to count them. You sell your apples too, and you get your apple counter to keep a record of the number of apples you have in the beginning and at the end of the day, every day. 
 
