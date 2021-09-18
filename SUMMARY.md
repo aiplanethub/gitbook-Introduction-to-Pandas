@@ -4,4 +4,12 @@
 * [Module 1: Introduction to Pandas](module-1-introduction-to-pandas/README.md)
   * [Data Analysis - An Analogy](module-1-introduction-to-pandas/data-analysis-an-analogy.md)
   * [Introduction to Pandas](module-1-introduction-to-pandas/introduction-to-pandas.md)
+* [Module 2: Series and DataFrame](module-2-series-and-dataframe/README.md)
+  * [Series](module-2-series-and-dataframe/series.md)
+  * [DataFrame](module-2-series-and-dataframe/dataframe.md)
+  * [Practice Quiz](module-2-series-and-dataframe/practice-quiz.md)
+* [Module 3: Read & Write Files + Basic Methods/Attributes](module-3-read-and-write-files-+-basic-methods-attributes/README.md)
+  * [Reading & Write Files](module-3-read-and-write-files-+-basic-methods-attributes/reading-and-write-files.md)
+  * [Basic Methods/Attributes of Dataframe](module-3-read-and-write-files-+-basic-methods-attributes/basic-methods-attributes-of-dataframe.md)
+  * [Practice Quiz](module-3-read-and-write-files-+-basic-methods-attributes/practice-quiz.md)
 
