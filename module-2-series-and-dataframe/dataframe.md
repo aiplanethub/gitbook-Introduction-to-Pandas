@@ -26,8 +26,6 @@ A data frame looks like a table as shown in the image here:
 
 ![](https://lh5.googleusercontent.com/RI0EwfppmDspfq6pT6uvEwBxx-nlvWE7OGCXA6at4GWhLtZCir_dk6wk-tS__auZcoi2CwBYpgA6Q3QnS_bPilz5CEiLOQhlGn-M0JyNngQePz7xJntN-weTnLxtGXY30TngjJPh6I8=s0)
 
-\*\*\*\*
-
 **You can create a dataframe using dictionary**
 
 ![](https://lh4.googleusercontent.com/Rf5R890QizoyUEb9sefi6hgUMhPFfuDaPlEoOg_BIjiorrBVxD8t5wcyDBDdWxngv-cmbeb0tYTt-exui7hlkoGuVq5wwx-C1hRRTc2kwKL52viE4b3hXFx64BWk0Xg6yNuSRuKZMdo=s0)
