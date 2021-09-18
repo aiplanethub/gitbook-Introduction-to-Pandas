@@ -1,6 +1,6 @@
 # Practice Quiz
 
-* We will add the details of the quiz here before 19th September, 7:00 AM CET. In the meanwhile, please go through all the learning content :\)
-
-
+* This is a practice quiz which consist of MCQ type questions.
+* Link: [https://dphi.tech/business/candidate/assessment/kpbIHGVD64E](https://dphi.tech/business/candidate/assessment/kpbIHGVD64E)
+* There is no deadline for this, you can access it anytime till 27th September.
 
