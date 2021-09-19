@@ -6,7 +6,7 @@ This dataset contains marks secured by different students in an examination and 
 
 The dataset can be found here:
 
-* [https://github.com/dphi-official/Datasets/blob/master/exam\_scores.cs](https://github.com/dphi-official/Datasets/blob/master/exam_scores.cs)
+* [https://github.com/dphi-official/Datasets/blob/master/exam\_scores.cs](https://github.com/dphi-official/Datasets/blob/master/exam_scores.csv)
 
 ### Read The dataset
 
