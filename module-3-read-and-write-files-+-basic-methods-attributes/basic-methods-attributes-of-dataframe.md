@@ -62,7 +62,7 @@ We can also add the number of rows to be displayed in both head\( \) and tail\( 
 
 ![](https://lh6.googleusercontent.com/yfqHtjHRX9Scz2WijVGY4oH8-VkA86nixuaxRwd_CZaJ_IKdHHvYVQOuOiY-b6u69LD5MwcSqsngoms1BhlJ-oU6mzrYkDhZR2hOs2cVjOiHtLn7WsMMZCZnVyMi1BtDORi1idyf_Uw=s0)
 
-We can observer here that the columns -
+We can observe here that the columns -
 
 * 'gender', 'race/ethnicity', 'parental level of education', 'lunch' and 'test preparation course' are of data type - object.
 * 'math score', 'reading score' and 'writing score' are of data type - int64 \(i.e. integer\)
