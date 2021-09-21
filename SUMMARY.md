@@ -12,4 +12,13 @@
   * [Reading & Write Files](module-3-read-and-write-files-+-basic-methods-attributes/reading-and-write-files.md)
   * [Basic Methods/Attributes of Dataframe](module-3-read-and-write-files-+-basic-methods-attributes/basic-methods-attributes-of-dataframe.md)
   * [Practice Quiz](module-3-read-and-write-files-+-basic-methods-attributes/practice-quiz.md)
+* [Module 4: Indexing, Selecting and Assigning](module-4-indexing-selecting-and-assigning/README.md)
+  * [Indexing](module-4-indexing-selecting-and-assigning/indexing.md)
+  * [Selecting](module-4-indexing-selecting-and-assigning/selecting.md)
+  * [Assigning](module-4-indexing-selecting-and-assigning/assigning.md)
+  * [Practice Quiz](module-4-indexing-selecting-and-assigning/practice-quiz.md)
+* [Module 5: Summary and Aggregation Functions](module-5-summary-and-aggregation-functions/README.md)
+  * [Summary Functions](module-5-summary-and-aggregation-functions/summary-functions.md)
+  * [Aggregation Functions](module-5-summary-and-aggregation-functions/aggregation-functions.md)
+  * [Practice Quiz](module-5-summary-and-aggregation-functions/practice-quiz.md)
 

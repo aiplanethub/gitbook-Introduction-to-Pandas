@@ -1,6 +1,6 @@
 # Basic Methods/Attributes of Dataframe
 
-### Dataset: **Exam Scores**
+## Dataset: **Exam Scores**
 
 This dataset contains marks secured by different students in an examination and their background information.
 
@@ -8,7 +8,7 @@ The dataset can be found here:
 
 * [https://github.com/dphi-official/Datasets/blob/master/exam\_scores.csv](https://github.com/dphi-official/Datasets/blob/master/exam_scores.csv)
 
-### Read The dataset
+## Read The dataset
 
 * So far you have learned how to read a csv file using read\_csv\(\) function. Let’s see the practical implementation 
 * read\_csv\(\) function is of pandas library. So the first task is always to import/load the library we will use.
@@ -21,9 +21,9 @@ The dataset can be found here:
 
 * **The csv file ‘exam\_scores’ is located in the current working direcroy** 
 
-### **Methods/Attributes of Dataframe**
+## **Methods/Attributes of Dataframe**
 
-### **shape attribute**
+## **shape attribute**
 
 * **shape:** It will help you to know what is the shape of your Dataframe i.e. \(number of rows, number of columns\) 
 * After we have loaded the data we can check the shape of the Dataframe using shape attribute.
@@ -32,7 +32,7 @@ The dataset can be found here:
 
 * So our DataFrame has 1000 rows and 8 columns. From here we can also say that our DataFrame has 8000 entries.
 
-### **head\( \) method**
+## **head\( \) method**
 
 * **head\( \):** It will help you to see the first five observations of your dataframe. You can get some idea about the content of your dataframe.
 * To get some idea about the content in the dataframe we can use head\(\) or tail\(\) method. Any one of the two can give us some idea about the content in the dataframe
@@ -41,7 +41,7 @@ The dataset can be found here:
 
 * **We can see the first five observation of the dataset in the above table.** 
 
-### tail\( \) method
+## tail\( \) method
 
 * tail\( \): This method is similar to head\(\) method but instead of first five it will give you the last five observation from your dataset.
 
@@ -49,13 +49,13 @@ The dataset can be found here:
 
 * **We can see the last five observation of the dataset in the above table.**
 
-### **head\( \) and tail\( \)**
+## **head\( \) and tail\( \)**
 
 We can also add the number of rows to be displayed in both head\( \) and tail\( \). See the example below:
 
 ![](https://lh3.googleusercontent.com/JDwD3GwrukYliNTysIoTn2Z0TU7yxVulWfeb3EE8Wkp68koXGifZhDPyVpfXhXczN-g65Y35S0zxeilRJnL2Dx3LTAkQ6OvaBK5sExUoaJ5Wp138pB2DOEm7aM9pRvDY7QVxfl2YVuE=s0)
 
-### **dtypes**
+## **dtypes**
 
 * **dtypes** attribute: It will help you know about the data types of each column.
 * To know the data types associated with each column, we can use dtypes attribute.
@@ -67,14 +67,13 @@ We can observe here that the columns -
 * 'gender', 'race/ethnicity', 'parental level of education', 'lunch' and 'test preparation course' are of data type - object.
 * 'math score', 'reading score' and 'writing score' are of data type - int64 \(i.e. integer\)
 
-### **info\( \)**
+## **info\( \)**
 
 **info\( \)** method: This method will return you a concise summary about the dataframe.
 
 ![](https://lh3.googleusercontent.com/DV6WVYHkAefZm0_Y1ymiJFv8nKxtn5IjzqIBui8qWWK5keLCilICBHOFCDrIqtC0ap0RmQkM-KD9nqasGMTi6MNZP_BkeKuoSdol3Gl-f6cMk9PfHSu6frAHNQFI7w-npr8AxgZJt-o=s0)
 
-**What you get using info\(\) method?**  
-
+**What you get using info\(\) method?**
 
 ![](https://lh4.googleusercontent.com/4jkEtqfx1y4vBLI9lYDfkwER5IPvAdU6RowNVKf376E8b-WhA-FgNCG9TL4nUQ6ogWe1LT-RN3KEwhUOfm1KmDij9tMgWGRUrQrUxDyIMTiuQgzOOQPb3VoZs4c9yUL5cOWU5Jd_18w=s0)
 
