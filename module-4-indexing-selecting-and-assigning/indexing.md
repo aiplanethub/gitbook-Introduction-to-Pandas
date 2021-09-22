@@ -40,7 +40,6 @@
 
 ### Label Based Selection
 
-![](../.gitbook/assets/image%20%287%29.png)
 
 * Label based selection selects data based on the column or row names/index. This becomes important while selecting data from a dataframe 
 * Label based selection is done with loc 
