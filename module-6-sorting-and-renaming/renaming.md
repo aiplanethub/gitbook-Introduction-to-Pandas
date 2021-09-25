@@ -1,7 +1,5 @@
 # Renaming
 
-
-
 * Renaming means changing the name. 
 * Most of the time we get dataset where column names are not satisfactory.  
 * For example in this dataset the 'math score', 'reading score' and 'writing score' contains spaces in it due to which we are not able to use attribute\(dot\) selection style method to select a particular column.  
