@@ -21,4 +21,9 @@
   * [Summary Functions](module-5-summary-and-aggregation-functions/summary-functions.md)
   * [Aggregation Functions](module-5-summary-and-aggregation-functions/aggregation-functions.md)
   * [Practice Quiz](module-5-summary-and-aggregation-functions/practice-quiz.md)
+* [Module 6: Sorting and Renaming](module-6-sorting-and-renaming/README.md)
+  * [Sorting](module-6-sorting-and-renaming/sorting.md)
+  * [Renaming](module-6-sorting-and-renaming/renaming.md)
+  * [Practice Quiz](module-6-sorting-and-renaming/practice-quiz.md)
+* [Module 7: Missing Data](module-7-missing-data.md)
 
