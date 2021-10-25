@@ -1,11 +1,11 @@
 # DataFrame
 
-## Learning Objectives
+### Learning Objectives
 
 * What is DataFrame?
 * Create a DataFrame
 
-## What is a DataFrame?
+### What is a DataFrame?
 
 * Two dimensional table
 * Made up of a collection of Series
@@ -15,7 +15,7 @@ A data frame looks like a table as shown in the image here:
 
 ![](https://lh6.googleusercontent.com/oVM0xzSQBRMeyvLbbeiIANOJPwCIc_qhoPpfR1dYe8O990yfMCoKZQjDv5WuxGZMm-lDJOOpNlee35Ur0--nuX1wpG6lKVEbAt-QO54IqI8HqOC_ZujooY5H3m_DwcJZG2wtCrPabsg=s0)
 
-## Create a DataFrame
+### Create a DataFrame
 
 * You can create a DataFrame using a Python list or a NumPy array
 
@@ -30,7 +30,7 @@ A data frame looks like a table as shown in the image here:
 
 ![](https://lh4.googleusercontent.com/Rf5R890QizoyUEb9sefi6hgUMhPFfuDaPlEoOg_BIjiorrBVxD8t5wcyDBDdWxngv-cmbeb0tYTt-exui7hlkoGuVq5wwx-C1hRRTc2kwKL52viE4b3hXFx64BWk0Xg6yNuSRuKZMdo=s0)
 
-## A Column is a Series
+### A Column is a Series
 
 * A DataFrame is a collection of series.
 * A series is a column in a table or a dataframe.
