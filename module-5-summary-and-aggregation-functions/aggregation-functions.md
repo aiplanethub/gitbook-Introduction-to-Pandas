@@ -1,7 +1,5 @@
 # Aggregation Functions
 
-
-
 * Well, we saw the use of **describe\(\)** method on a dataframe or a series which returned some information \(i.e. the summary\) about the data. 
 * We can also use the individual methods like **mean\(\), median\(\), unique\(\)** to get those information on a dataframe or a series.
 * Examples are shown below:
@@ -13,4 +11,3 @@
 ![](https://lh4.googleusercontent.com/_cYdWpdoPF_XyBsDerTp47OV9d9bWmfDJtMhcTyjLkQI9FaQfjjaZSXgtvlTgvgAlh_bCrxMl7rc70qoeDheSGOjbqfmNUSrw0raEIWWIdFbMei39UxTeLUzOvfPw91CZ6HqN2AE4Rg=s0)
 
 * 'female' is occurring 502 times in gender column which we saw in the table returned using describe\(\) method.
-
