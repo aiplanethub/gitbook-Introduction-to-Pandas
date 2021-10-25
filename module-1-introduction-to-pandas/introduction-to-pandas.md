@@ -14,7 +14,7 @@
 * It is a tool used by data scientists to:
   * read,
   * write,
-  * manipulate, and 
+  * manipulate, and&#x20;
   * analyse the data.
 
 ### Why Pandas?
@@ -37,7 +37,6 @@ You can import/load Pandas in your notebook or any other Python IDE in two diffe
 * **import pandas**
 * **import pandas as pd**
 
-Just as we use the `np` shorthand for NumPy, we will be using `pd` shorthand for Pandas. It simply serves as an alias and it is easier to use `pd` instead writing full form ‘pandas’ while coding.
+Just as we use the `np` shorthand for NumPy, we will be using `pd `shorthand for Pandas. It simply serves as an alias and it is easier to use `pd `instead writing full form ‘pandas’ while coding.
 
 In this course, we will use **`import pandas as pd`**
-
