@@ -47,4 +47,4 @@
 * We will learn about its implementation on a dataset soon.&#x20;
 * Selecting data from a dataframe using column and row names/index. Used operator - loc
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/Screen Shot 2021-11-03 at 8.22.02 PM.png>)
