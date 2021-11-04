@@ -4,7 +4,7 @@
 
 So far you have learned reading a data file, some methods to check the overview about data and selecting data from a dataframe.&#x20;
 
-Those are not well enough information that we got about the data. A data scientist always want to understand the behaviour of data. For numerical columns we may want to know the mean value or median values of the data, the minimum value in the column and the maximum value in the column, etc. For categorical column we are interested to know things like the number of different categories in a column, the count of each category in a column, the maximum occurring category in a column, etc. Here we will look some of the techniques that will help you know the above information about your data.
+Those are not well enough information that we got about the data. A data scientist always want to understand the behaviour of data. For numerical columns we may want to know the mean value or median values of the data, the minimum value in the column and the maximum value in the column, etc. For categorical column we are interested to know things like the number of different categories in a column, the count of each category in a column, the maximum occurring category in a column, etc. Here we will look at some of the techniques that will help you know the above information about your data.
 
 ### What is Summary?
 
@@ -15,7 +15,7 @@ Those are not well enough information that we got about the data. A data scienti
 ### Summary Functions
 
 * Pandas has many simple "summary functions" (well, this is not an official name) that helps you to restructure your data in a very useful way and displays the useful information about the data
-* Do you recall the **info()** method that we had used in the earlier module? This method has given us 6 to 7 main points about the data like number of observations and their range indices, name of columns with their data types and number of non - null entries in the particular column, etc.
+* Do you recall the **info()** method that we had used in the earlier module? This method has given us 6 to 7 main points about the data like number of observations and their range indexes, name of columns with their data types and number of non - null entries in the particular column, etc.
 * So **info()** is also a summary function/method
 * Here we will see another summary function - **describe()**
 * Import Pandas Library and load the dataset ‘exam\_scores.csv’
@@ -28,7 +28,7 @@ Those are not well enough information that we got about the data. A data scienti
 
 ![](https://lh5.googleusercontent.com/hubvgWJGU7EcTvm8D4O-T4IZn7jC4Z\_LpoXrPExZfndrWd3lFGVc3WZ5voTPE9eLQaDF1RFX\_beZZEWMBMp2WeWblzUblJ5pPOG3DMSz4AtnHdkRCwzxfkgqhQkoGiW339A8SngrNT8=s0)
 
-* Don’t worry if you don’t know what does these terms in red box mean? You will know the meaning of these terms in further content.
+* Don’t worry if you don’t know what these terms in the red box mean? You will know the meaning of these terms in further content.
 * If we want to get summary about categorical column separately then we can use one parameter **'include'**.&#x20;
 
 ![Don’t worry if you don’t know what does these terms in red box mean? You will know the meaning of these terms in further slides](https://lh6.googleusercontent.com/2JXqGdLIKXWMrAASsPzuZiGf3kFVKqLBz\_cYJ6eoJUzeByE2qn6qTtT2YF6A-s0-kliEsBUAMmoi32plcXT3wRJNfcXqm6jvXLu\_jdxCIGnrYu9BtjnktgM\_yrE8qsWUopMa1ES7fPM=s0)
@@ -38,8 +38,8 @@ Those are not well enough information that we got about the data. A data scienti
 
 ![Don’t worry if you don’t know what does these terms in red box mean? You will know the meaning of these terms in further slides](https://lh4.googleusercontent.com/inHEFJ8aaqOCYjM4mrOtfBPscYl1Tw4uEOnhgO1bdt61UnYX4YhpK2Nvpzooi4jTnGwIX4y2YyMMyucH0TfIzj2\_az12KMAlXM8jcOUVMpnZ-caktoG4WRMkPJSLFecLvNWCFhIBoJM=s0)
 
-* We can see the above table includes the summary about both numerical and categorical column. A categorical column cannot have minimum or maximum values or mean and median. So the entries in these field for categorical column is 'NaN'.
-* We had seen in previous module that this dataset has 5 categorical variables (gender, race/ethnicity, parental level of education, lunch and test preparation course) and 3 numerical ( i.e. integer) columns (math score, reading score and writing score).
+* We can see the above table includes the summary about both numerical and categorical column. A categorical column cannot have minimum or maximum values or mean and median. So the entries in the fields for categorical columns is 'NaN'.
+* We have seen in the previous module that this dataset has 5 categorical variables (gender, race/ethnicity, parental level of education, lunch and test preparation course) and 3 numerical ( i.e. integer) columns (math score, reading score and writing score).
 
 ![](https://lh6.googleusercontent.com/Q\_azdPqOuHSy6sSY7hy5nk1Qp3QhxdDXQV-fK1Ctdrjhd3qNTGRc8-T6mQR\_CwRKV7krpf4XD8U7wtWbB1ET5d0msRlR7WQpvR9LTyT2UdxqYiglvbii9BDF6TtyPAaPpMjnB2ccQtg=s0)
 
