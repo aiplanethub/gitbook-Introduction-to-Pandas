@@ -3,10 +3,11 @@
 ## What is Indexing in Pandas?
 
 * Indexing in Pandas means selecting particular rows and columns from a DataFrame&#x20;
-* Indexing in Pandas is same is same as we did for a Python List and a NumPy array&#x20;
+* Indexing in Pandas is same as we did for a Python List and a NumPy array&#x20;
 * Pandas has two known operators used for indexing.&#x20;
 * There are two different methods of indexing in Pandas:
-  * **loc - label based selection iloc - index based selection**
+  * **loc - label based selection**
+  * **iloc - index based selection**
 
 ## Index Based Selection
 
