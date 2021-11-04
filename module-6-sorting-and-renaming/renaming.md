@@ -6,7 +6,7 @@
 
 * For example in this dataset the 'math score', 'reading score' and 'writing score' contains spaces in it due to which we are not able to use attribute(dot) selection style method to select a particular column. \
 
-* And not only this if the column names were 'ms' for math score, 'rs' for reading score and 'ws' for writing score, these are not satisfactory column names. The need of renaming a column or index comes here.\
+* And not only this if the column names were 'ms' for math score, 'rs' for reading score and 'ws' for writing score, these are not satisfactory column names. The need for renaming a column or index comes here.\
 
 * Pandas provides a function ‘rename()’ to rename column/indexes in a dataframe.\
 
