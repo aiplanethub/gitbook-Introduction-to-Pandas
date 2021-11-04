@@ -2,17 +2,17 @@
 
 ### What is a Missing Value?
 
-* If in any row or column in a dataframe, the value is not available, it is said as the missing value.\
+* If the value of a field in any row or column in a dataframe is not available, it is said as the missing value.
 
-* So defining missing data: **Missing data (or missing values) is defined as the data value that are not stored in a column or row.**\
+* So defining missing data: **Missing data (or missing values) is defined as the data value that are not stored in a column or row.**
   ****
 * Consider this small dataset which has some missing values in it (shown in the red box).
 
 ![](https://lh4.googleusercontent.com/cV1tAA3TXSS975NmnbJm4pbEeud1-YF2K4ATYv59dVu4OCCMRADcNA8zHr5-Qxf6F8VhswiSOafAmKnM7U1CCqSISwN35N\_QM3cpC-9k\_gQeGUOYaZYSC4-hG3XgrHQ5LMu0bpwotzA=s0)
 
-* Well this is a small dataset so we can easily observe the missing values here. But real data are very large in size and you cannot easily see the missing values in the dataframe.\
+* Well this is a small dataset so we can easily observe the missing values here. But real data are very large in size and you cannot easily see the missing values in the dataframe.
   &#x20;
-* Pandas provides **isnull(), isna()** functions to detect missing values. Both of them do the same thing.\
+* Pandas provides **isnull(), isna()** functions to detect missing values. Both of them do the same thing.
 
 * **df.isna() or df.isnull()** returns the dataframe with boolean values indicating missing values.
 
@@ -24,15 +24,15 @@
 
 
 
-* Both the columns 'Names' and 'Marks%' have one missing values in each. 'Regd. No' has no missing values so the value is 0.\
+* Both the columns 'Names' and 'Marks%' have one missing values in each. 'Regd. No' has no missing values so the value is 0.
 
-* Pandas also provides fillna() method to fill the missing values. fillna() provides many different strategy to fill the missing values.\
+* Pandas also provides fillna() method to fill the missing values. fillna() provides many different strategy to fill the missing values.
 
 * Let's say we want to fill the missing values in 'Names' column with 'unknown'.
 
 ![](https://lh4.googleusercontent.com/fgFoN\_VNl3LPnlcG8nzg3ZYWoIbCSIjSN6fP1DZFv16Nk6WmlSjDqt0OWFdFt1-rS4LQqSLHLbE-E3ht-UdOmWYchZYc7HEa9rz1bxpdVT-ErTOg7\_4jpv3SZfUNeUPJaXW\_vGUx5y0=s0)
 
-* But the changes are not made inplace.\
+* But the changes are not made inplace.
 
 * The dataframe still contains missing values in the 'Names' column.
 
