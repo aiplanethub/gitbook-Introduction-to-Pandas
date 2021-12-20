@@ -2,8 +2,8 @@
 
 
 
-* Well, we saw the use of** describe() **method on a dataframe or a series which returned some information (i.e. the summary) about the data.&#x20;
-* We can also use the individual methods like** mean(), median(), unique() **to get those information on a dataframe or a series.
+* Well, we saw the use of **describe()** method on a dataframe or a series which returned some information (i.e. the summary) about the data.&#x20;
+* We can also use the individual methods like **mean(), median(), unique()** to get those information on a dataframe or a series.
 * Examples are shown below:
 
 ![](https://lh3.googleusercontent.com/qJuoNURLnTGGLaCAi1n-3Dr2xBpKhk4GpKUnk9b8Lv\_BNz9iWopvcSoug0ctgNo6KuOTC1fLSYXk\_-3FPZLDLxmBArxD34vWLh3zbaHQ6slqLKaHlkabOy1jc1a53mD9Su5RF4XBstA=s0)

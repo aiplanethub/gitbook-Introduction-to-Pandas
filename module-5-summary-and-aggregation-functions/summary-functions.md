@@ -46,17 +46,17 @@ Those are not well enough information that we got about the data. A data scienti
 *   Let's see what information about the data is returned in the above table:
 
     * **count** - the count of non - null entries in the particular column. For example, gender column has 1000 non - null entries.
-    * **unique **- the count of unique values in a column. Only for categorical column. For example, gender column has 2 unique values - male and female.
-    * **top **- this is also for only categorical column. This tells which category is occurring maximum number of times. For example in gender column 'female' is occurring maximum number of times.
-    * **freq **- this is again for categorical column only. This tells you the number of occurence of the category that is occurring maximum number of times in the column. For example, 'female' in gender column is occurring 502 times.
-    * **mean **- the mean value of the numerical column. For example, the mean math score is 67.128
-    * **std **- This is standard deviation of the numerical column. This tells you about the variation of data. Don't worry if you don't know about it.
-    * **min **- the minimum value in the numerical column. For example, the minimum math score is 15.0
-    * **25% **- the 25th percentile (or 1st quartile) value in the numerical column. For example, the 25th percentile value for math score is 58.0
-    * **50% **- the 50th percentile (or 2nd quartile or the median) value in the numerical column. For example, the median math score is 67.0
-    * **75% **- the 75th percentile (or 3rd quartile) value in the numerical column. For example, the 75th percentile value for math score is 78.0
-    * **max **- the maximum value in the numerical column. For example, the maximum math score is 100.0
-    * **NaN values **means for a particular column a particular summary value is not available. For example, for column gender ( a categorical column), do not have mean value or median value as these are the properties of numerical columns only.
+    * **unique** - the count of unique values in a column. Only for categorical column. For example, gender column has 2 unique values - male and female.
+    * **top** - this is also for only categorical column. This tells which category is occurring maximum number of times. For example in gender column 'female' is occurring maximum number of times.
+    * **freq** - this is again for categorical column only. This tells you the number of occurence of the category that is occurring maximum number of times in the column. For example, 'female' in gender column is occurring 502 times.
+    * **mean** - the mean value of the numerical column. For example, the mean math score is 67.128
+    * **std** - This is standard deviation of the numerical column. This tells you about the variation of data. Don't worry if you don't know about it.
+    * **min** - the minimum value in the numerical column. For example, the minimum math score is 15.0
+    * **25%** - the 25th percentile (or 1st quartile) value in the numerical column. For example, the 25th percentile value for math score is 58.0
+    * **50%** - the 50th percentile (or 2nd quartile or the median) value in the numerical column. For example, the median math score is 67.0
+    * **75%** - the 75th percentile (or 3rd quartile) value in the numerical column. For example, the 75th percentile value for math score is 78.0
+    * **max** - the maximum value in the numerical column. For example, the maximum math score is 100.0
+    * **NaN values** means for a particular column a particular summary value is not available. For example, for column gender ( a categorical column), do not have mean value or median value as these are the properties of numerical columns only.
 
 
 * **We can also use describe() method on a particular column/series.**

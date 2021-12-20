@@ -8,7 +8,7 @@
 ### Reading Data Files
 
 * It is always good to be able to create a dataframe by hand. But, generally, we don’t create our own data by hand. We work on the data that already exists.
-* Data exists in number of formats. The most basic of these is the **csv **file**. csv stands for comma-separated-value**
+* Data exists in number of formats. The most basic of these is the **csv** file**. csv stands for comma-separated-value**
 
 ### **What is a CSV file?**
 
