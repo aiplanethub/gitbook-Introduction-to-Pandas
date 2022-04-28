@@ -21,5 +21,4 @@
   * [Sorting](module-6-sorting-and-renaming/sorting.md)
   * [Renaming](module-6-sorting-and-renaming/renaming.md)
 * [Module 7: Missing Data](module-7-missing-data.md)
-* [(Optional): Additional Practice](optional-additional-practice.md)
 * [Final Assignment](final-assignment.md)
