@@ -21,7 +21,7 @@
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
-![](https://github.com/dphi-official/Introduction-to-Pandas/blob/master/.gitbook/assets/image (1) (1).png)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
@@ -30,13 +30,12 @@
 * **Selecting data based on its numerical position. Used operator - iloc**&#x20;
 * You can also pass **list of indexes**
 
-![](https://github.com/dphi-official/Introduction-to-Pandas/blob/master/.gitbook/assets/image (2).png)
+![](<../.gitbook/assets/image (2).png>)
 
 * Selecting data based on its numerical position. Used operator - **iloc**&#x20;
 * You can also pass **negative indexes**
 
-![](https://github.com/dphi-official/Introduction-to-Pandas/blob/master/.gitbook/assets/image (9).png)
-
+![](<../.gitbook/assets/image (9).png>)
 
 ## Label Based Selection
 
@@ -49,5 +48,4 @@
 * We will learn about its implementation on a dataset soon.&#x20;
 * Selecting data from a dataframe using column and row names/index. Used operator - loc
 
-![](https://github.com/dphi-official/Introduction-to-Pandas/blob/master/.gitbook/assets/Screen Shot 2021-11-03 at 8.22.02 PM.png)
-
+![](<../.gitbook/assets/Screen Shot 2021-11-03 at 8.22.02 PM.png>)
